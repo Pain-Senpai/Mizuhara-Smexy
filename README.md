@@ -11,11 +11,11 @@
 ### 💙Heroku💙
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnuragSharma080/MizuharaSmexyBot.git"><img src="https://telegra.ph/file/923ca8d23025ee79ec78a.jpg" width="400"></a></p>
 <p align="center">
-<a href="https://app.codacy.com/manual/AnuragSharma080/mizuharasmexybot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/AnuragSharma080/mizuharasmexybot"> <img src="https://img.shields.io/github/repo-size/AnuragSharma080/mizuharasmexybot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnuragSharma080/mizuharasmexybot/commits/AnuragSharma080"> <img src="https://img.shields.io/github/last-commit/AnuragSharma080/mizuharasmexybot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnuragSharma080/mizuharasmexybot/issues"> <img src="https://img.shields.io/github/issues/AnuragSharma080/mizuharasmexybot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnuragSharma080/mizuharasmexybot/network/members"> <img src="https://img.shields.io/github/forks/anuragsharma080/mizuharasmexybot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+<a href="https://app.codacy.com/manual/AnuragSharma080/mizuhara-smexy/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/AnuragSharma080/mizuhara-smexy"> <img src="https://img.shields.io/github/repo-size/AnuragSharma080/mizuhara-smexy?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AnuragSharma080/mizuhara-smey/commits/AnuragSharma080"> <img src="https://img.shields.io/github/last-commit/AnuragSharma080/mizuhara-smexy?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AnuragSharma080/mizuhara-smexy/issues"> <img src="https://img.shields.io/github/issues/AnuragSharma080/mizuhara-smexy?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AnuragSharma080/mizuhara-smexy/network/members"> <img src="https://img.shields.io/github/forks/anuragsharma080/mizuhara-smexy?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
