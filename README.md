@@ -33,7 +33,7 @@
 
 ### Original Works of - In 
 
-•[AnimeKaizoki](https://github.com/animekaizoku/saitamarobot) In [SaitamaRobot](https://github.com/animekaizoku/SaitamaRobot)
+•[AnimeKaizoku](https://github.com/animekaizoku/saitamarobot) In [SaitamaRobot](https://github.com/animekaizoku/SaitamaRobot)
 
 •[QueenArzoo](https://github.com/queenarzoo) In [LaylaRobot](https://github.com/queenarzoo/laylarobot)
 
@@ -42,9 +42,6 @@
 •[TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkercat/williambutherbot)
 
 •[MarshalX](https://github.com/MarshalX/) In [PytgCalls](https://github.com/marshalx/tgcalls)
-
-
-
 
 
 ### Inspired From 
