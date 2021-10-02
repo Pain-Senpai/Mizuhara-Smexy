@@ -43,6 +43,9 @@
 
 •[MarshalX](https://github.com/MarshalX/) In [PytgCalls](https://github.com/marshalx/tgcalls)
 
+•[TroJazHex](https://github.com/TroJanzHEX) In [Image Editor](https://github.com/TroJanzHEX/Image-Editor)
+
+[DevsExpo](https://github.com/DevsExpo) In [Friday-Userbot](https://github.com/DevsExpo/FridayUserbot)
 
 ### Inspired From 
 
