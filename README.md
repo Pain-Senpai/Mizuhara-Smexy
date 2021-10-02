@@ -75,7 +75,7 @@ Things TO get instant banned -
 
 •[TeamDaisyX](https://github.com/TeamDaisyX) In [DaisyX](https://github.com/teamdaisyx/daisyx)
 
-•[TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkercat/williambutherbot)
+•[TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
 
 •[MarshalX](https://github.com/MarshalX/) In [PytgCalls](https://github.com/marshalx/tgcalls)
 
@@ -91,7 +91,7 @@ Things TO get instant banned -
 
 •[DaisyX](https://github.com/TeamDaisyX/DaisyX)
 
-•[WilliamButcherBot](https://github.com/TheHamkerCat/Williambutcherbot)
+•[WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
 
 ### ALL DEVS AND Contributors❤
 
