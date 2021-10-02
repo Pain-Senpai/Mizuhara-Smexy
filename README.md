@@ -30,6 +30,31 @@
 
 <a href="https://t.me/chizuru_support"><img src="https://img.shields.io/badge/Join-Support%20Group-purple.svg?logo=telegram"></a>
 
+### Original Repo?📌
+•Original Repository of MizuharaSmexyBot Is now private there's no reason you can find it anywhere now!If Someone's providing you the repository of mizuhara and saying this is the real one He's scamming you for sure don't believe strangers on internet now and don't let them scam you.
+
+### Reason For Private Repo
+
+•Due to the so many kangers on telegram we decided to make Mizuhara's repo private as if so it won't effect the real Mizuhara speed or your Private info. 
+
+### Wanna Contribute? 
+
+•If you wanna contribute to Mizuhara now Just do To The [Mizuhara Support Group](https://t.me/chizuru_support) and ask the admin/owner and tell him what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
+
+### Before Going to Support Group -
+
+•Before going to support group make sure you've read and agreed to all the rules or else you know what happens. 
+Things TO get instant banned -
+•Offtopic 
+•Sending Porn 
+•Asking about original repo or code probs 
+•Deployement Issues of other bots 
+•Promoting your stuff 
+•Using language other than Proper English  
+•Asking For Sudo
+•Asking for Admin 
+
+
 ### Original Works of - In 
 
 •[AnimeKaizoku](https://github.com/animekaizoku/saitamarobot) In [SaitamaRobot](https://github.com/animekaizoku/SaitamaRobot)
