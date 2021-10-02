@@ -31,7 +31,7 @@
 <a href="https://t.me/chizuru_support"><img src="https://img.shields.io/badge/Join-Support%20Group-purple.svg?logo=telegram"></a>
 
 ### Original Repo?📌
-•Original Repository of MizuharaSmexyBot Is now private there's no reason you can find it anywhere now!If Someone's providing you the repository of mizuhara and saying this is the real one He's scamming you for sure don't believe strangers on internet now and don't let them scam you.
+•Original Repository of MizuharaSmexyBot Is now private there's no reason you can find it anywhere now! If Someone's providing you the repository of mizuhara and saying this is the real one He's scamming you for sure don't believe strangers on internet now and don't let them scam you.
 
 ### Reason For Private Repo
 
@@ -53,7 +53,7 @@ Things TO get instant banned -
 •Using language other than Proper English  
 •Asking For Sudo
 •Asking for Admin 
-
+•Bringing Your Gangs and Spamming
 
 ### Original Works of - In 
 
