@@ -112,8 +112,6 @@ Things TO get instant banned -
 
 - [Hunter XDD](https://github.com/Hunter-XDD)
 
-- [xD_ShaShank](https://github.com/theshashankk)
-
 - [VegetaxD](http://github.com/VegetaxD)
 
 - [StarkGang](https://github.com/StarkGang/)
