@@ -109,3 +109,6 @@ Things TO get instant banned -
 #### • Aashish »»  <a href="https://github.com/aksr-aashish" alt="Aashish "> <img src="https://img.shields.io/badge/Aashish-95B9C7?logo=github" /></a> (Dev)
 #### • QueenArzoo »»  <a href="https://github.com/QueenArzoo" alt="QueenArzoo"> <img src="https://img.shields.io/badge/QueenArzoo-107D8D?logo=github" /></a> (DEV)
 ### • AryaZakaria »»  <a href="https://github.com/aryazakaria01" alt="AryaZakaria"> <img src="https://img.shields.io/badge/AryaZakaria-30439f?logo=github" /></a>
+#### • HellXGod Like »»  <a href="https://github.com/HellxGodLike" alt="HellXGodLike"> <img src="https://img.shields.io/badge/hellxgodlike-207D9D?logo=github" /></a> (DEV)
+#### • KennedyProject »»  <a href="https://github.com/KennedyProject" alt="KennedyProject"> <img src="https://img.shields.io/badge/KennedyProject-20484D?logo=github" /></a> (DEV)
+
