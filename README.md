@@ -13,10 +13,15 @@
 ### Tour Guide📍
 
 [About Original Repo](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-repo)
+
 [Reason Why Original Repo Is Private](https://github.com/Pain-Senpai/Mizuhara-Smexy#reason-for-privaterepo)
+
 [How To Contribute](https://github.com/Pain-Senpai/Mizuhara-Smexy#wanna-contribute?)
+
 [Support is Strict in](https://github.com/Pain-Senpai/Mizuhara-Smexy#before-going-to-support-group)
+
 []()
+
 []()
 
 
