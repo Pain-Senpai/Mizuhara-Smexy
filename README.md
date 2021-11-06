@@ -24,7 +24,11 @@
 
 [Inspired From](https://github.com/Pain-Senpai/Mizuhara-Smexy#inspired-from)
 
+[Music Credits](https://github.com/Pain-Senpai/Mizuhara-Smexy#music)
+
 [Our Contributors](https://github.com/Pain-Senpai/Mizuhara-Smexy#all-devs-and-contributors)
+
+[Support&Updates](https://github.com/Pain-Senpai/Mizuhara-Smexy#support)
 
 
 <h6 align="center"><b>⭐ If You like our repo and enjoyed the bot Plz Consider Giving Us A Star⭐ </b></h9>
