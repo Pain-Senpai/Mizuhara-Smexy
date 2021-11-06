@@ -12,23 +12,23 @@
 
 ### Tour Guide📍
 
-[About Original Repo](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-repo)
+< [About Original Repo](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-repo)
 
-[Reason Why Original Repo Is Private](https://github.com/Pain-Senpai/Mizuhara-Smexy#reason-for-private-repo)
+< [Reason Why Original Repo Is Private](https://github.com/Pain-Senpai/Mizuhara-Smexy#reason-for-private-repo)
 
-[How To Contribute](https://github.com/Pain-Senpai/Mizuhara-Smexy#wanna-contribute)
+<[How To Contribute](https://github.com/Pain-Senpai/Mizuhara-Smexy#wanna-contribute)
 
-[Support is Strict in](https://github.com/Pain-Senpai/Mizuhara-Smexy#before-going-to-support-group--)
+< [Support is Strict in](https://github.com/Pain-Senpai/Mizuhara-Smexy#before-going-to-support-group--)
 
-[Original Works Of and In](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-works-of---in)
+< [Original Works Of and In](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-works-of---in)
 
-[Inspired From](https://github.com/Pain-Senpai/Mizuhara-Smexy#inspired-from)
+< [Inspired From](https://github.com/Pain-Senpai/Mizuhara-Smexy#inspired-from)
 
-[Music Credits](https://github.com/Pain-Senpai/Mizuhara-Smexy#music)
+< [Music Credits](https://github.com/Pain-Senpai/Mizuhara-Smexy#music)
 
-[Our Contributors](https://github.com/Pain-Senpai/Mizuhara-Smexy#all-devs-and-contributors)
+< [Our Contributors](https://github.com/Pain-Senpai/Mizuhara-Smexy#all-devs-and-contributors)
 
-[Support&Updates](https://github.com/Pain-Senpai/Mizuhara-Smexy#support)
+< [Support&Updates](https://github.com/Pain-Senpai/Mizuhara-Smexy#support)
 
 
 <h6 align="center"><b>⭐ If You like our repo and enjoyed the bot Plz Consider Giving Us A Star⭐ </b></h9>
