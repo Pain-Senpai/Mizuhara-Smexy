@@ -14,16 +14,17 @@
 
 [About Original Repo](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-repo)
 
-[Reason Why Original Repo Is Private](https://github.com/Pain-Senpai/Mizuhara-Smexy#reason-for-privaterepo)
+[Reason Why Original Repo Is Private](https://github.com/Pain-Senpai/Mizuhara-Smexy#reason-for-private-repo)
 
-[How To Contribute](https://github.com/Pain-Senpai/Mizuhara-Smexy#wanna-contribute?)
+[How To Contribute](https://github.com/Pain-Senpai/Mizuhara-Smexy#wanna-contribute)
 
-[Support is Strict in](https://github.com/Pain-Senpai/Mizuhara-Smexy#before-going-to-support-group)
+[Support is Strict in](https://github.com/Pain-Senpai/Mizuhara-Smexy#before-going-to-support-group--)
 
-[]()
+[Original Works Of and In](https://github.com/Pain-Senpai/Mizuhara-Smexy#original-works-of---in)
 
-[]()
+[Inspired From](https://github.com/Pain-Senpai/Mizuhara-Smexy#inspired-from)
 
+[Our Contributors](https://github.com/Pain-Senpai/Mizuhara-Smexy#all-devs-and-contributors)
 
 
 <h6 align="center"><b>⭐ If You like our repo and enjoyed the bot Plz Consider Giving Us A Star⭐ </b></h9>
