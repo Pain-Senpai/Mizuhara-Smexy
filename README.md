@@ -84,7 +84,7 @@ Things TO get instant banned -
 
 •[TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
 
-•[MarshalX](https://github.com/MarshalX/) In [PytgCalls](https://github.com/marshalx/tgcalls)
+•[MarshalX](https://github.com/MarshalX/) In [TgCalls](https://github.com/marshalx/tgcalls)
 
 •[TroJazHex](https://github.com/TroJanzHEX) In [Image Editor](https://github.com/TroJanzHEX/Image-Editor)
 
@@ -99,6 +99,30 @@ Things TO get instant banned -
 •[DaisyX](https://github.com/TeamDaisyX/DaisyX)
 
 •[WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
+
+### Music 
+
+- [Arya Zakaria01](https://github.com/aryazakaria01)
+
+- [InukaAsith](https://github.com/InukaAsith) 
+
+- [Hunter XDD](https://github.com/Hunter-XDD)
+
+- [xD_ShaShank](https://github.com/theshashankk)
+
+- [VegetaxD](http://github.com/VegetaxD)
+
+- [StarkGang](https://github.com/StarkGang/)
+
+- [SpEcHiDe](https://github.com/SpEcHiDe/)
+
+- [The Hamker Cat](https://github.com/thehamkercat)
+
+- [PytgCalls](https://github.com/marshalx/tgcalls)
+
+- [Safone](https://github.com/AsmSafone)
+
+- [TheYukki](https://t.me/OfficialYukki)
 
 ### ALL DEVS AND Contributors❤
 
