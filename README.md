@@ -32,7 +32,8 @@
 <h6 align="center"><b>⭐ If You like our repo and enjoyed the bot Plz Consider Giving Us A Star⭐ </b></h9>
 
 ## Available On Telegram As [@MizuharaSmexyBot](https://t.me/MizuharaSmexyBot) 💜
-
+HEROKU��<Deploy
+(https://heroku.com/deploy?template=https://github.com/Pain-Senpai/Mizuhara-Smexy)
 ## Support💜
 
 <a href="https://t.me/smexy_updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-violet.svg?logo=Telegram"></a>
