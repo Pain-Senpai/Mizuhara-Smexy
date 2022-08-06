@@ -45,49 +45,34 @@ If Someone's providing you the repository of mizuhara and saying this is the rea
 
 ### Reason For Private Repo
 
-•Due to the so many kangers on telegram we decided to make Mizuhara's repo private.A
-s if so it won't effect the real Mizuhara speed or your Private info. 
+•Because of some Mfs and people copying your handwork without any credits (even giving credit won't do any good tbh) I decided to make Mizuhara's repo private.(not a big heart mmm)
 
 ### Wanna Contribute? 
 
-•If you wanna contribute to Mizuhara now Just go To The [Mizuhara Support Group](https://t.me/chizuru_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
+• If you wanna contribute to Mizuhara now Just go To The [Mizuhara Support Group](https://t.me/chizuru_support) and ask the admin/owner that you wanna contribute and tell them what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
 
 
 ### Original Works of - In 
 
-•[AnimeKaizoku](https://github.com/animekaizoku/saitamarobot) In [SaitamaRobot](https://github.com/animekaizoku/SaitamaRobot)
+• [AnimeKaizoku](https://github.com/animekaizoku/saitamarobot) In [SaitamaRobot](https://github.com/animekaizoku/SaitamaRobot)
 
-•[TeamDaisyX](https://github.com/TeamDaisyX) In [DaisyX](https://github.com/teamdaisyx/daisyx)
+• [TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
 
-•[TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
+• [MarshalX](https://github.com/MarshalX/) In [TgCalls](https://github.com/marshalx/tgcalls)
 
-•[MarshalX](https://github.com/MarshalX/) In [TgCalls](https://github.com/marshalx/tgcalls)
+• [TroJazHex](https://github.com/TroJanzHEX) In [Image Editor](https://github.com/TroJanzHEX/Image-Editor)
 
-•[TroJazHex](https://github.com/TroJanzHEX) In [Image Editor](https://github.com/TroJanzHEX/Image-Editor)
-
-[DevsExpo](https://github.com/DevsExpo) In [Friday-Userbot](https://github.com/DevsExpo/FridayUserbot)
+• [DevsExpo](https://github.com/DevsExpo) In [Friday-Userbot](https://github.com/DevsExpo/FridayUserbot)
 
 ### Inspired From 
 
-•[SaitamaRobot](https://github.com/animekaizoku/saitamarobot)
+• [SaitamaRobot](https://github.com/animekaizoku/saitamarobot)
 
-•[DaisyX](https://github.com/TeamDaisyX/DaisyX)
-
-•[WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
+• [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
 
 ### Music 
 
-- [Arya Zakaria01](https://github.com/aryazakaria01)
-
-- [InukaAsith](https://github.com/InukaAsith) 
-
-- [Hunter XDD](https://github.com/Hunter-XDD)
-
-- [VegetaxD](http://github.com/VegetaxD)
-
-- [StarkGang](https://github.com/StarkGang/)
-
-- [SpEcHiDe](https://github.com/SpEcHiDe/)
+- [Arya Zakaria01](https://github.com/aryazakaria01) 
 
 - [The Hamker Cat](https://github.com/thehamkercat)
 
@@ -107,3 +92,6 @@ s if so it won't effect the real Mizuhara speed or your Private info.
 #### • HellXGod Like »»  <a href="https://github.com/HellxGodLike" alt="HellXGodLike"> <img src="https://img.shields.io/badge/hellxgodlike-207D9D?logo=github" /></a> (DEV)
 #### • KennedyProject »»  <a href="https://github.com/KennedyProject" alt="KennedyProject"> <img src="https://img.shields.io/badge/KennedyProject-20484D?logo=github" /></a> (DEV)
 
+
+
+(Some of the links might not be working due to change in usernames)
